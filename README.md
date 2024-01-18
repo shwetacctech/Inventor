@@ -9,7 +9,7 @@ To kickstart your journey with the Inventor API project, follow these steps:
 
 ### Clone the Repository:
 
-git clone https://github.com/RamCCTech/InventorAPI.git
+git clone https://github.com/shwetacctech/Inventor.git
 Explore the Contents:
 
 Acquaint yourself with the project structure and available resources.
